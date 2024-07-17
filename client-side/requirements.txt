@@ -1,0 +1,11 @@
+socket.io
+socket.io-client
+react-use-websocket
+react-use-websocket
+framer-motion
+heroicons
+react-icons
+react-router-dom
+react-use-websocket
+zustand
+react-hook-form
